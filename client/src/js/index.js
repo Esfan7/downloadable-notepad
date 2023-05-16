@@ -25,6 +25,7 @@ if (typeof editor === 'undefined') {
 
 // Check if service workers are supported
 if ('serviceWorker' in navigator) {
+  console.log('testing sw')
   // register workbox service worker
   const workboxSW = new Workbox('/src-sw.js');
   workboxSW.register();
