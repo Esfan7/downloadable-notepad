@@ -1,1 +1,1 @@
-
+This application is downloadable. It is a notepad or text editor you can save to your desktop as a shortcut to use any time. You may use our website or simply click the download button in the top right corner. Just type away and save!
